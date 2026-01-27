@@ -6,6 +6,7 @@
 
 - [Git 教程](docs/Git教程.md) - 完整的 Git 学习指南
 - [PR 提交指南](docs/PR提交指南.md) - 如何提交 Pull Request
+- [提交规范](docs/提交规范.md) - Git 提交信息规范
 - [个人简介](profiles/) - 贡献者介绍
 
 ## 使用方法
